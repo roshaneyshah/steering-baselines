@@ -1,6 +1,6 @@
 # steering-baselines
 
-Weather-example reproduction and baseline gates for the Cohere Labs ML Agents project "Learning When to Intervene".
+Weather-example reproduction and baseline gates for the "Learning When to Intervene" project.
 
 Gates run before a tool call and return Proceed or Guide:
 
